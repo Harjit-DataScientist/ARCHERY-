@@ -1,1 +1,1 @@
-# ARCHERY-
+# project-C26-template
